@@ -1,3 +1,4 @@
-.replit/
 .config/
 config stuff/
+.replit
+replit.nix
